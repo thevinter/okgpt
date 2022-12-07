@@ -1,3 +1,5 @@
+## About
+
 This is a **proof of concept** for a barebones version of a Speech Assistant ("Ok Google", "Alexa" etc.) powered by GPT-3
 
 Currently it works in a very simple way: It listens the microphone for 5 seconds after being run and then uses that snippet to query OpenAI's API, returning the result as speech
